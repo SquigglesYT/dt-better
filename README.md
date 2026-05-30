@@ -1,8 +1,8 @@
 # dt-better
-a datetime wrapper.
+a pretty lightweight datetime wrapper.
 
-to install this, run pip install dt-better
-i will not provide where to type this, as if you are trying to use this, you likely already have python and know what to do. heres how it works.
+to install this, run pip install dt-better in your terminal.
+pip comes with most modern python versions.
 
 examples:
 
