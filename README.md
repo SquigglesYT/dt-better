@@ -14,7 +14,7 @@ print(date)
 
 ```python
 import dt_better as dt
-tommorows_date = dt.tomorrow()
+tomorows_date = dt.tomorrow()
 print("Tomorrows Date is:", tomorrows_date)
 ```
 
