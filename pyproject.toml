@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dt-better"
+version = "0.1.0"
+authors = [
+  { name="SquigglesYT", email="benjaminmcdade5@gmail.com" },
+]
+description = "A lightweight Python wrapper for datetime"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = ["datetime", "date", "time", "utility", "shortcuts"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/SquigglesYT/dt-better"
+
+[tool.setuptools]
+py-modules = ["dt_better"]
