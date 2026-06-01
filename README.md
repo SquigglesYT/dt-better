@@ -33,7 +33,7 @@ current_day_of_month(): this shows what day of the month you are on as a number
 
 current_year(): this returns the current year
 
-current_day_of_week(): this returns the current day of the week, monday tuesday wednesday thursday or friday
+current_day_of_week(): this returns the current day of the week, sunday monday tuesday wednesday thursday friday or saturday
 
 current_hour(): this returns the current hour
 
